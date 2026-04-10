@@ -1,1 +1,1 @@
-https://leetcode.com/problems/remove-linked-list-elements/submissions/1968697537
+https://leetcode.com/problems/remove-linked-list-elements/submissions/1974372622
