@@ -41,8 +41,5 @@ int encapsulado(char *str, char *rts){
    return 0;
 }
 
-/*labore uma func¸ ˜ao que receba duas strings 
-como par ˆametros e verifique se a segunda
-string ocorre dentro da primeira. Use aritm 
-´etica de ponteiros para acessar os caracteres
-das strings*/
+/*Elabore uma função que receba duas strings como parâmetros e verifique se a segunda
+string ocorre dentro da primeira. Use aritmética de ponteiros para acessar os caracteres das strings*/
