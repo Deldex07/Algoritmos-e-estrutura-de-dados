@@ -48,6 +48,8 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 82 | Remove Duplicates from Sorted List II | [Visualizar](./Leetcode/Medium/RemoveDuplicates_SL2/) |
 | 98 | Validate Binary Search Tree | [Visualizar](./Leetcode/Medium/ValidateBST/) |
 | 167 | Two Sum II - Input Array Is Sorted | [Visualizar](./Leetcode/Medium/TwoSumII/) |
+| 235 | Lowest Common Ancestor of a Binary Search Tree | [Visualizar](./Leetcode/Medium/LowestCommonAncestorBST/) |
+| 236 | Lowest Common Ancestor of a Binary Tree | [Visualizar](./Leetcode/Medium/LowestCommonAncestorBT/) |
 | 450 | Delete Node in a BST | [Visualizar](./Leetcode/Medium/DeleteNodeBST/) |
 | 498 | Diagonal Traverse | [Visualizar](./Leetcode/Medium/DiagonalTraverse/) |
 | 701 | Insert into a Binary Search Tree | [Visualizar](./Leetcode/Medium/InsertBST/) |
