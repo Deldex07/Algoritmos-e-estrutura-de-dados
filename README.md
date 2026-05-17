@@ -47,6 +47,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 75 | Sort Colors | [Visualizar](./Leetcode/Medium/SortColors/) |
 | 82 | Remove Duplicates from Sorted List II | [Visualizar](./Leetcode/Medium/RemoveDuplicates_SL2/) |
 | 98 | Validate Binary Search Tree | [Visualizar](./Leetcode/Medium/ValidateBST/) |
+| 114 | Flatten Binary Tree to Linked List | [Visualizar](./Leetcode/Medium/FlattenBT/) |
 | 153 | Find Minimun In Rotated Sorted Array | [Visualizar](./Leetcode/Medium/FindMinimunInRotatedSortedArray/) |
 | 167 | Two Sum II - Input Array Is Sorted | [Visualizar](./Leetcode/Medium/TwoSumII/) |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [Visualizar](./Leetcode/Medium/LowestCommonAncestorBST/) |
