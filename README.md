@@ -41,6 +41,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | # | Problema | Solução |
 | :--- | :--- | :--- |
 | 2 | Add Two Numbers | [Visualizar](./Leetcode/Medium/Add-TwoNum/) |
+| 3 | Longest Substring Without REpeting Characters| [Visualizar](./Leetcode/Medium/Longest%20Substring%20Without%20Repeting%20Characters/)
 | 12 | Integer to Roman | [Visualizar](./Leetcode/Medium/intToRoman/) |
 | 19 | Remove Nth Node From End of List | [Visualizar](./Leetcode/Medium/RemoveNthFromEnd/) |
 | 24 | Swap Nodes in Pairs | [Visualizar](./Leetcode/Medium/SwapNodes/) |
@@ -50,6 +51,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 114 | Flatten Binary Tree to Linked List | [Visualizar](./Leetcode/Medium/FlattenBT/) |
 | 153 | Find Minimun In Rotated Sorted Array | [Visualizar](./Leetcode/Medium/FindMinimunInRotatedSortedArray/) |
 | 167 | Two Sum II - Input Array Is Sorted | [Visualizar](./Leetcode/Medium/TwoSumII/) |
+| 209 | Minimum Size Subarray Sum | [Visualizar](./Leetcode/Medium/Minimum%20Size%20Subarray/) |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [Visualizar](./Leetcode/Medium/LowestCommonAncestorBST/) |
 | 236 | Lowest Common Ancestor of a Binary Tree | [Visualizar](./Leetcode/Medium/LowestCommonAncestorBT/) |
 | 450 | Delete Node in a BST | [Visualizar](./Leetcode/Medium/DeleteNodeBST/) |
