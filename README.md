@@ -49,6 +49,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 82 | Remove Duplicates from Sorted List II | [Visualizar](./Leetcode/Medium/RemoveDuplicates_SL2/) |
 | 98 | Validate Binary Search Tree | [Visualizar](./Leetcode/Medium/ValidateBST/) |
 | 114 | Flatten Binary Tree to Linked List | [Visualizar](./Leetcode/Medium/FlattenBT/) |
+| 148 | Sort List | [Visualizar](./Leetcode/Medium/SortList/) |
 | 153 | Find Minimun In Rotated Sorted Array | [Visualizar](./Leetcode/Medium/FindMinimunInRotatedSortedArray/) |
 | 167 | Two Sum II - Input Array Is Sorted | [Visualizar](./Leetcode/Medium/TwoSumII/) |
 | 209 | Minimum Size Subarray Sum | [Visualizar](./Leetcode/Medium/Minimum%20Size%20Subarray/) |
