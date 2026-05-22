@@ -1,6 +1,5 @@
 # Algoritmos e Estruturas de Dados
 Repositório da disciplina A&D (Terceiro semestre)
-
 ## 📌 Exercícios Resolvidos
 ### 🟢 Easy
 | # | Problema | Solução |
@@ -65,6 +64,8 @@ Repositório da disciplina A&D (Terceiro semestre)
 ### 🔴 Hard
 | # | Problema | Solução |
 | :--- | :--- | :--- |
+| 23 | Merge K Sorted Lists | [Visualizar](./Leetcode/Hard/MergekSortedLists/) |
 | 153 | Find Minimum in Rotated Sorted Array | [Visualizar](./Leetcode/Hard/FindMinInRotatedSortedArray/) |
+| 493 | Reverse Pairs | [Visualizar](./Leetcode/Hard/ReversePairs/) |
 | 1665 | Minimum Initial Energy to Finish Tasks | [Visualizar](./Leetcode/Hard/minimumToFinishTask/) |
 ---
