@@ -46,6 +46,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 19 | Remove Nth Node From End of List | [Visualizar](./Leetcode/Medium/RemoveNthFromEnd/) |
 | 24 | Swap Nodes in Pairs | [Visualizar](./Leetcode/Medium/SwapNodes/) |
 | 75 | Sort Colors | [Visualizar](./Leetcode/Medium/SortColors/) |
+| 78 | Subsets | [Visualizar](./Leetcode/Medium/Subsets/) |
 | 82 | Remove Duplicates from Sorted List II | [Visualizar](./Leetcode/Medium/RemoveDuplicates_SL2/) |
 | 98 | Validate Binary Search Tree | [Visualizar](./Leetcode/Medium/ValidateBST/) |
 | 114 | Flatten Binary Tree to Linked List | [Visualizar](./Leetcode/Medium/FlattenBT/) |
