@@ -34,6 +34,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 700 | Search in a Binary Search Tree | [Visualizar](./Leetcode/Easy/SearchBST/) |
 | 860 | Lemonade Change | [Visualizar](./Leetcode/Easy/Lemonade/) |
 | 3110 | Score of a String | [Visualizar](./Leetcode/Easy/ScoreString/) |
+| 3120 | Count the Number of Special Characters I | [Visualizar](./Leetcode/Easy/CountSpecialCharactersI/) |
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | [Visualizar](./Leetcode/Easy/MinimumOp/) |
 
 ### 🟡 Medium
@@ -62,6 +63,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 622 | Design Circular Queue | [Visualizar](./Leetcode/Medium/DesignCircularQueue/)
 | 701 | Insert into a Binary Search Tree | [Visualizar](./Leetcode/Medium/InsertBST/) |
 | 1382 | Balance a Binary Search Tree | [Visualizar](./Leetcode/Medium/BalanceBST/) |
+| 3121 | Count the Number of Special Characters II | [Visualizar](./Leetcode/Medium/CountSpecialCharactersII/) |
 
 ### 🔴 Hard
 | # | Problema | Solução |
