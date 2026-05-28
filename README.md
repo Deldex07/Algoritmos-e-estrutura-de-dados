@@ -51,6 +51,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 82 | Remove Duplicates from Sorted List II | [Visualizar](./Leetcode/Medium/RemoveDuplicates_SL2/) |
 | 98 | Validate Binary Search Tree | [Visualizar](./Leetcode/Medium/ValidateBST/) |
 | 103 | Binary Tree Zigzag Level Order Traversal | [Visualizar] (.Leetcode/Medium/BinaryTreeZigzag) |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | [Visualizar] (.Leetcode/Medium/FromPreorderAndInorder) |
 | 114 | Flatten Binary Tree to Linked List | [Visualizar](./Leetcode/Medium/FlattenBT/) |
 | 148 | Sort List | [Visualizar](./Leetcode/Medium/SortList/) |
 | 153 | Find Minimun In Rotated Sorted Array | [Visualizar](./Leetcode/Medium/FindMinimunInRotatedSortedArray/) |
