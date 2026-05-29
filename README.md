@@ -30,6 +30,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 203 | Remove Linked List Elements | [Visualizar](./Leetcode/Easy/Remove-LL-Elements/) |
 | 217 | Contains Duplicate | [Visualizar](./Leetcode/Easy/ContainsDuplicate/) |
 | 226 | Invert Binary Tree | [Visualizar](./Leetcode/Easy/InvertBinaryTree/) |
+| 242 | Valid Anagram | [Visualizar](./Leetcode/Easy/ValidAnagram/) |
 | 344 | Reverse String | [Visualizar](./Leetcode/Easy/ReverseString/) |
 | 509 | Fibonacci Number | [Visualizar](./Leetcode/Easy/fibonnaci/) |
 | 700 | Search in a Binary Search Tree | [Visualizar](./Leetcode/Easy/SearchBST/) |
