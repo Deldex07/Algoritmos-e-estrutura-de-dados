@@ -60,6 +60,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 153 | Find Minimun In Rotated Sorted Array | [Visualizar](./Leetcode/Medium/FindMinimunInRotatedSortedArray/) |
 | 167 | Two Sum II - Input Array Is Sorted | [Visualizar](./Leetcode/Medium/TwoSumII/) |
 | 209 | Minimum Size Subarray Sum | [Visualizar](./Leetcode/Medium/Minimum%20Size%20Subarray/) |
+| 230 | Kth Smallest Element in a BST | [Visualizar](./Leetcode/Medium/KthSmallestBST/) |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [Visualizar](./Leetcode/Medium/LowestCommonAncestorBST/) |
 | 236 | Lowest Common Ancestor of a Binary Tree | [Visualizar](./Leetcode/Medium/LowestCommonAncestorBT/) |
 | 450 | Delete Node in a BST | [Visualizar](./Leetcode/Medium/DeleteNodeBST/) |
