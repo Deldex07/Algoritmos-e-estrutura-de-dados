@@ -69,6 +69,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 503 | Next Greater Element | [Visualizar](./Leetcode/Medium/NextGreaterElementII/) |
 | 622 | Design Circular Queue | [Visualizar](./Leetcode/Medium/DesignCircularQueue/)
 | 701 | Insert into a Binary Search Tree | [Visualizar](./Leetcode/Medium/InsertBST/) |
+| 775 | GlobalAndLocalInversions | [Visualizar](./Leetcode/Medium/GlobalAndLocalInversions/) |
 | 1382 | Balance a Binary Search Tree | [Visualizar](./Leetcode/Medium/BalanceBST/) |
 | 3121 | Count the Number of Special Characters II | [Visualizar](./Leetcode/Medium/CountSpecialCharactersII/) |
 
