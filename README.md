@@ -36,6 +36,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 700 | Search in a Binary Search Tree | [Visualizar](./Leetcode/Easy/SearchBST/) |
 | 860 | Lemonade Change | [Visualizar](./Leetcode/Easy/Lemonade/) |
 | 1051 | Height Checker | [Visualizar](.Leetcode/Easy/HeightChecker/) |
+| 2942 | Find Words Containing Character | [Visualizar](./Leetcode/Easy/FindWords/) |
 | 3110 | Score of a String | [Visualizar](./Leetcode/Easy/ScoreString/) |
 | 3120 | Count the Number of Special Characters I | [Visualizar](./Leetcode/Easy/CountSpecialCharactersI/) |
 | 3512 | Minimum Operations to Make Array Sum Divisible by K | [Visualizar](./Leetcode/Easy/MinimumOp/) |
