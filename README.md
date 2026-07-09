@@ -48,6 +48,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 3 | Longest Substring Without REpeting Characters| [Visualizar](./Leetcode/Medium/Longest%20Substring%20Without%20Repeting%20Characters/)
 | 11 | Container With Most Water | [Visualizar](./Leetcode/Medium/ContainerMostWater/) |
 | 12 | Integer to Roman | [Visualizar](./Leetcode/Medium/intToRoman/) |
+| 15 | 3Sum | [Visualizar](./Leetcode/Medium/3sum/)
 | 19 | Remove Nth Node From End of List | [Visualizar](./Leetcode/Medium/RemoveNthFromEnd/) |
 | 24 | Swap Nodes in Pairs | [Visualizar](./Leetcode/Medium/SwapNodes/) |
 | 75 | Sort Colors | [Visualizar](./Leetcode/Medium/SortColors/) |
