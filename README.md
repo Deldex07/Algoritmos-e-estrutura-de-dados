@@ -25,6 +25,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 110 | Balanced Binary Tree | [Visualizar](./Leetcode/Easy/BalancedBinaryTree/) |
 | 125 | Valid Palindrome | [Visualizar](./Leetcode/Easy/ValidPalindrome/) |
 | 136 | Single Number | [Visualizar](./Leetcode/Easy/SingleNumber/) |
+| 141 | Linked List Cycle | [Visualizar](./Leetcode/Easy/LinkedCycle/) |
 | 144 | Binary Tree Preorder Traversal | [Visualizar](./Leetcode/Easy/TreePreorder/) |
 | 145 | Binary Tree Postorder Traversal | [Visualizar](./Leetcode/Easy/TreePosorder/) |
 | 203 | Remove Linked List Elements | [Visualizar](./Leetcode/Easy/Remove-LL-Elements/) |
@@ -61,6 +62,8 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | [Visualizar](./Leetcode/Medium/fromPreoderAndInorder/) |
 | 109 | Convert Sorted List to Binary Search Tree | [Visualizar](./Leetcode/Medium/sortedListToBST/) |
 | 114 | Flatten Binary Tree to Linked List | [Visualizar](./Leetcode/Medium/FlattenBT/) |
+| 142 | Linked List Cycle II | [Visualizar](./Leetcode/Medium/LinkedCycleII/) |
+| 143 | Reorder List | [Visualizar](./Leetcode/Medium/ReorderList/) |
 | 148 | Sort List | [Visualizar](./Leetcode/Medium/SortList/) |
 | 153 | Find Minimun In Rotated Sorted Array | [Visualizar](./Leetcode/Medium/FindMinimunInRotatedSortedArray/) |
 | 167 | Two Sum II - Input Array Is Sorted | [Visualizar](./Leetcode/Medium/TwoSumII/) |
@@ -73,7 +76,9 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 503 | Next Greater Element | [Visualizar](./Leetcode/Medium/NextGreaterElementII/) |
 | 622 | Design Circular Queue | [Visualizar](./Leetcode/Medium/DesignCircularQueue/)
 | 701 | Insert into a Binary Search Tree | [Visualizar](./Leetcode/Medium/InsertBST/) |
+| 739 | Daily Temperatures | [Visualizar](./Leetcode/Medium/DailyTemperatures/) |
 | 775 | GlobalAndLocalInversions | [Visualizar](./Leetcode/Medium/GlobalAndLocalInversions/) |
+| 877 | Stone Game | [Visualizar](./Leetcode/Medium/StoneGame/) |
 | 1382 | Balance a Binary Search Tree | [Visualizar](./Leetcode/Medium/BalanceBST/) |
 | 3121 | Count the Number of Special Characters II | [Visualizar](./Leetcode/Medium/CountSpecialCharactersII/) |
 
@@ -84,5 +89,6 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 153 | Find Minimum in Rotated Sorted Array | [Visualizar](./Leetcode/Hard/FindMinInRotatedSortedArray/) |
 | 493 | Reverse Pairs | [Visualizar](./Leetcode/Hard/ReversePairs/) |
 | 1301 | Number of Paths with Max Score | [Visualizar](./Leetcode/Hard/NumberOfPaths/) |
+| 1406 | Stone Game III | [Visualizar](./Leetcode/Hard/StoneGameIII/) |
 | 1665 | Minimum Initial Energy to Finish Tasks | [Visualizar](./Leetcode/Hard/minimumToFinishTask/) |
 ---
