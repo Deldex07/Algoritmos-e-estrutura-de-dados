@@ -17,26 +17,35 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 67 | Add Binary | [Visualizar](./Leetcode/Easy/addBinary/) |
 | 69 | Sqrt(x) | [Visualizar](./Leetcode/Easy/Sqrt(x)/) |
 | 83 | Remove Duplicates from Sorted List | [Visualizar](./Leetcode/Easy/RemoveDuplicates_SL/) |
+| 88 | Merge Sorted Array | [Visualizar](./Leetcode/Easy/MergeSortedArray/) |
 | 94 | Binary Tree Inorder Traversal | [Visualizar](./Leetcode/Easy/TreeInorder/) |
 | 100 | Same Tree | [Visualizar](./Leetcode/Easy/SameTree/) |
 | 101 | Symmetric Tree | [Visualizar](./Leetcode/Easy/SymmetricTree/) |
 | 104 | Maximum Depth of Binary Tree | [Visualizar](./Leetcode/Easy/MaximumDepth/) |
 | 108 | Convert Sorted Array to BST | [Visualizar](./Leetcode/Easy/SortedArrayToBST/) |
 | 110 | Balanced Binary Tree | [Visualizar](./Leetcode/Easy/BalancedBinaryTree/) |
+| 111 | Minimum Depth of Binary Tree | [Visualizar](./Leetcode/Easy/MinimunDepth/) |
+| 121 | Best Time to Buy and Sell Stock | [Visualizar](./Leetcode/Easy/BestTimeToBuy/) |
 | 125 | Valid Palindrome | [Visualizar](./Leetcode/Easy/ValidPalindrome/) |
 | 136 | Single Number | [Visualizar](./Leetcode/Easy/SingleNumber/) |
 | 141 | Linked List Cycle | [Visualizar](./Leetcode/Easy/LinkedCycle/) |
 | 144 | Binary Tree Preorder Traversal | [Visualizar](./Leetcode/Easy/TreePreorder/) |
 | 145 | Binary Tree Postorder Traversal | [Visualizar](./Leetcode/Easy/TreePosorder/) |
+| 169 | Majority Element | [Visualizar](./Leetcode/Easy/MajorityElement/) |
 | 203 | Remove Linked List Elements | [Visualizar](./Leetcode/Easy/Remove-LL-Elements/) |
 | 217 | Contains Duplicate | [Visualizar](./Leetcode/Easy/ContainsDuplicate/) |
 | 226 | Invert Binary Tree | [Visualizar](./Leetcode/Easy/InvertBinaryTree/) |
 | 242 | Valid Anagram | [Visualizar](./Leetcode/Easy/ValidAnagram/) |
+| 283 | Move Zeroes | [Visualizar](./Leetcode/Easy/MoveZeroes/) |
 | 344 | Reverse String | [Visualizar](./Leetcode/Easy/ReverseString/) |
 | 509 | Fibonacci Number | [Visualizar](./Leetcode/Easy/fibonnaci/) |
 | 700 | Search in a Binary Search Tree | [Visualizar](./Leetcode/Easy/SearchBST/) |
 | 860 | Lemonade Change | [Visualizar](./Leetcode/Easy/Lemonade/) |
+| 876 | Middle of the Linked List | [Visualizar](./Leetcode/Easy/MiddleLinkedList/) |
+| 977 | Squares of a Sorted Array | [Visualizar](./Leetcode/Easy/SquaresSortedArray/) |
 | 1051 | Height Checker | [Visualizar](.Leetcode/Easy/HeightChecker/) |
+| 1290 | Convert Binary Number in a Linked List to Integer | [Visualizar](./Leetcode/Easy/BinaryNumberToInteger/) |
+| 1480 | Running Sum of 1d Array | [Visualizar](./Leetcode/Easy/RunningSum/) |
 | 2942 | Find Words Containing Character | [Visualizar](./Leetcode/Easy/FindWords/) |
 | 3110 | Score of a String | [Visualizar](./Leetcode/Easy/ScoreString/) |
 | 3120 | Count the Number of Special Characters I | [Visualizar](./Leetcode/Easy/CountSpecialCharactersI/) |
@@ -64,6 +73,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 114 | Flatten Binary Tree to Linked List | [Visualizar](./Leetcode/Medium/FlattenBT/) |
 | 142 | Linked List Cycle II | [Visualizar](./Leetcode/Medium/LinkedCycleII/) |
 | 143 | Reorder List | [Visualizar](./Leetcode/Medium/ReorderList/) |
+| 147 | Insertion Sort List | [Visualizar](./Leetcode/Medium/InsertionSortList/) |
 | 148 | Sort List | [Visualizar](./Leetcode/Medium/SortList/) |
 | 153 | Find Minimun In Rotated Sorted Array | [Visualizar](./Leetcode/Medium/FindMinimunInRotatedSortedArray/) |
 | 167 | Two Sum II - Input Array Is Sorted | [Visualizar](./Leetcode/Medium/TwoSumII/) |
@@ -79,6 +89,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 739 | Daily Temperatures | [Visualizar](./Leetcode/Medium/DailyTemperatures/) |
 | 775 | GlobalAndLocalInversions | [Visualizar](./Leetcode/Medium/GlobalAndLocalInversions/) |
 | 877 | Stone Game | [Visualizar](./Leetcode/Medium/StoneGame/) |
+| 912 | Sort an Array | [Visualizar](./Leetcode/Medium/SortAnArray/) |
 | 1382 | Balance a Binary Search Tree | [Visualizar](./Leetcode/Medium/BalanceBST/) |
 | 3121 | Count the Number of Special Characters II | [Visualizar](./Leetcode/Medium/CountSpecialCharactersII/) |
 
