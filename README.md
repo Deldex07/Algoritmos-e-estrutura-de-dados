@@ -63,7 +63,8 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 18 | 4Sum | [Visualizar](./Leetcode/Medium/4sum/)
 | 19 | Remove Nth Node From End of List | [Visualizar](./Leetcode/Medium/RemoveNthFromEnd/) |
 | 24 | Swap Nodes in Pairs | [Visualizar](./Leetcode/Medium/SwapNodes/) |
-| 43 | Multiply Strings | [Visualizar](./Leetcode/Medium/MultiplyStrings/)
+| 43 | Multiply Strings | [Visualizar](./Leetcode/Medium/MultiplyStrings/) |
+| 53 | Maximum SubArray | [Visualizar](./Leetcode/Medium/MaximumSubArray/) |
 | 75 | Sort Colors | [Visualizar](./Leetcode/Medium/SortColors/) |
 | 78 | Subsets | [Visualizar](./Leetcode/Medium/Subsets/) |
 | 82 | Remove Duplicates from Sorted List II | [Visualizar](./Leetcode/Medium/RemoveDuplicates_SL2/) |
