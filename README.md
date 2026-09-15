@@ -63,6 +63,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 18 | 4Sum | [Visualizar](./Leetcode/Medium/4sum/)
 | 19 | Remove Nth Node From End of List | [Visualizar](./Leetcode/Medium/RemoveNthFromEnd/) |
 | 24 | Swap Nodes in Pairs | [Visualizar](./Leetcode/Medium/SwapNodes/) |
+| 34 | Find and Last Position of Element in Sorted Array | [Visualizar](./Leetcode/Medium/FindFirstAndLast/)
 | 43 | Multiply Strings | [Visualizar](./Leetcode/Medium/MultiplyStrings/) |
 | 53 | Maximum SubArray | [Visualizar](./Leetcode/Medium/MaximumSubArray/) |
 | 75 | Sort Colors | [Visualizar](./Leetcode/Medium/SortColors/) |
