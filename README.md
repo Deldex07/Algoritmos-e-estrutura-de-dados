@@ -36,6 +36,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 203 | Remove Linked List Elements | [Visualizar](./Leetcode/Easy/Remove-LL-Elements/) |
 | 206 | Reverse Linked List | [Visualizar](./Leetcode/Easy/ReverseLinkedList/) |
 | 217 | Contains Duplicate | [Visualizar](./Leetcode/Easy/ContainsDuplicate/) |
+| 225 | Implement Stack using Queues | [Visualizar](./Leetcode/Easy/StackWithQueue/) |
 | 226 | Invert Binary Tree | [Visualizar](./Leetcode/Easy/InvertBinaryTree/) |
 | 234 | Palindrome Linked List | [Visualizar](./Leetcode/Easy/PalindromeLinkedList/) |
 | 242 | Valid Anagram | [Visualizar](./Leetcode/Easy/ValidAnagram/) |
@@ -96,6 +97,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 150 | Evaluate Reverse Polish Notation | [Visualizar](./Leetcode/Medium/EvaluateReversePolishNotation/) |
 | 151 | Reverse Words in a String | [Visualizar](./Leetcode/Medium/ReverseWordsString/) |
 | 153 | Find Minimum in Rotated Sorted Array | [Visualizar](./Leetcode/Medium/FindMinimunInRotatedSortedArray/) |
+| 155 | Min Stack | [Visualizar](./Leetcode/Medium/MinStack/) |
 | 167 | Two Sum II - Input Array Is Sorted | [Visualizar](./Leetcode/Medium/TwoSumII/) |
 | 209 | Minimum Size Subarray Sum | [Visualizar](./Leetcode/Medium/Minimum%20Size%20Subarray/) |
 | 230 | Kth Smallest Element in a BST | [Visualizar](./Leetcode/Medium/KthSmallestBST/) |
