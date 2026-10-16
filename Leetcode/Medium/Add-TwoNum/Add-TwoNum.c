@@ -12,38 +12,36 @@ struct ListNode {
       struct ListNode *next;
 };
 
-struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){
-    int carry = 0;  
+struct ListNode *addTwoNumbers( struct ListNode *l1, struct ListNode *l2 ) {
 
-    struct ListNode dummy;
-    dummy.next = NULL;
+	struct ListNode 	dummyhead;
+	dummyhead.val = 0;
+	dummyhead.next = NULL;
 
-    struct ListNode *current = &dummy;
+	struct ListNode* tail = &dummyhead;
+	int carry = 0;
 
-    while(l1 != NULL || l2 != NULL || carry != 0){
+	while( l1 != NULL || l2 != NULL || carry > 0 ) {
+		int sum = carry;
 
-        int val1 = (l1) ? l1->val : 0;
-        int val2 = (l2) ? l2->val : 0;
+		if( l1 != NULL ) {
+			sum += l1->val;
+			l1 = l1->next;
+		}
 
-        int soma = val1 + val2 + carry;
-        carry = soma / 10;
-        int digit = soma % 10;
+		if( l2 != NULL ) {
+			sum += l2->val;
+			l2 = l2->next;
+		}
 
-        struct ListNode *novo = malloc(sizeof(struct ListNode));
-        if(!novo){
-            printf("Memory allocation failed!\n");
-            exit(1);
-        }
+		carry = sum / 10;
 
-        novo->val = digit;
-        novo->next = NULL;
+		struct ListNode* newNode = ( struct ListNode* )malloc( sizeof( struct ListNode ) );
+		newNode->val = sum % 10;
+		newNode->next = NULL;
 
-        current->next = novo;
-        current = novo;
-
-        if(l1) l1 = l1->next;
-        if(l2) l2 = l2->next;
-    }
-
-    return dummy.next;
+		tail->next = newNode;
+		tail = newNode;
+	}
+	return dummyhead.next;
 }
