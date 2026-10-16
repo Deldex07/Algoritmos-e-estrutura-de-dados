@@ -117,6 +117,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 912 | Sort an Array | [Visualizar](./Leetcode/Medium/SortAnArray/) |
 | 1004 | Max Consecutive Ones III | [Visualizar](./Leetcode/Medium/MaxConsecutiveOnesIII/)|
 | 1382 | Balance a Binary Search Tree | [Visualizar](./Leetcode/Medium/BalanceBST/) |
+| 1823 | Find the Winner of the Circular Game | [Visualizar](./Leetcode/Medium/FindTheWinner/) |
 | 3121 | Count the Number of Special Characters II | [Visualizar](./Leetcode/Medium/CountSpecialCharactersII/) |
 
 ### 🔴 Hard
