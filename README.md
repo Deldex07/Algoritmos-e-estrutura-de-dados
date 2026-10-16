@@ -38,6 +38,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 217 | Contains Duplicate | [Visualizar](./Leetcode/Easy/ContainsDuplicate/) |
 | 225 | Implement Stack using Queues | [Visualizar](./Leetcode/Easy/StackWithQueue/) |
 | 226 | Invert Binary Tree | [Visualizar](./Leetcode/Easy/InvertBinaryTree/) |
+| 232 | Implement Queue using Stacks | [Visualizar](./Leetcode/Easy/QueueWithStack/)
 | 234 | Palindrome Linked List | [Visualizar](./Leetcode/Easy/PalindromeLinkedList/) |
 | 242 | Valid Anagram | [Visualizar](./Leetcode/Easy/ValidAnagram/) |
 | 283 | Move Zeroes | [Visualizar](./Leetcode/Easy/MoveZeroes/) |
