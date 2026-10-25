@@ -45,6 +45,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 344 | Reverse String | [Visualizar](./Leetcode/Easy/ReverseString/) |
 | 485 | Max Consecutive Ones | [Visualizar](./Leetcode/Easy/MaxConsecutiveOnes/) |
 | 509 | Fibonacci Number | [Visualizar](./Leetcode/Easy/fibonnaci/) |
+| 617 | Merge Two Binary Trees | [Visualizar](./Leetcode/Easy/MergeTwoBinaryTrees/)
 | 700 | Search in a Binary Search Tree | [Visualizar](./Leetcode/Easy/SearchBST/) |
 | 860 | Lemonade Change | [Visualizar](./Leetcode/Easy/Lemonade/) |
 | 876 | Middle of the Linked List | [Visualizar](./Leetcode/Easy/MiddleLinkedList/) |
@@ -100,18 +101,22 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 153 | Find Minimum in Rotated Sorted Array | [Visualizar](./Leetcode/Medium/FindMinimunInRotatedSortedArray/) |
 | 155 | Min Stack | [Visualizar](./Leetcode/Medium/MinStack/) |
 | 167 | Two Sum II - Input Array Is Sorted | [Visualizar](./Leetcode/Medium/TwoSumII/) |
+| 199 | Binary Tree Right Side View | [Visualizar](./Leetcode/Medium/BinaryTrreRightSideView/)
 | 209 | Minimum Size Subarray Sum | [Visualizar](./Leetcode/Medium/Minimum%20Size%20Subarray/) |
+| 215 | Kth Largest Element in an Array | [Visualizar](./Leetcode/Medium/KthLargestElement/)
 | 230 | Kth Smallest Element in a BST | [Visualizar](./Leetcode/Medium/KthSmallestBST/) |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [Visualizar](./Leetcode/Medium/LowestCommonAncestorBST/) |
 | 236 | Lowest Common Ancestor of a Binary Tree | [Visualizar](./Leetcode/Medium/LowestCommonAncestorBT/) |
 | 328 | Odd Even Linked List | [Visualizar](./Leetcode/Medium/OddEvenLinkedList/) |
+| 394 | Decode String | [Visualizar](./Leetcode/Medium/DecodeString/)
 | 450 | Delete Node in a BST | [Visualizar](./Leetcode/Medium/DeleteNodeBST/) |
 | 498 | Diagonal Traverse | [Visualizar](./Leetcode/Medium/DiagonalTraverse/) |
 | 503 | Next Greater Element II | [Visualizar](./Leetcode/Medium/NextGreaterElementII/) |
 | 508 | Most Frequent Subtree Sum | [Visualizar](./Leetcode/Medium/FrequentSubtreeSum/) |
 | 622 | Design Circular Queue | [Visualizar](./Leetcode/Medium/DesignCircularQueue/) |
 | 701 | Insert into a Binary Search Tree | [Visualizar](./Leetcode/Medium/InsertBST/) |
-| 739 | Daily Temperatures | [Visualizar](./Leetcode/Medium/DailyTemperatures/) |
+| 735 | Asteroid Collision | [Visualizar](./Leetcode/Medium/AsteroidCollision/)
+| 739 | Daily Temperatures | [Visualizar](./Leetcode/Medium/DailyTemperatuJres/) |
 | 775 | Global and Local Inversions | [Visualizar](./Leetcode/Medium/GlobalAndLocalInversions/) |
 | 877 | Stone Game | [Visualizar](./Leetcode/Medium/StoneGame/) |
 | 912 | Sort an Array | [Visualizar](./Leetcode/Medium/SortAnArray/) |
