@@ -92,6 +92,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | [Visualizar](./Leetcode/Medium/fromPreoderAndInorder/) |
 | 109 | Convert Sorted List to Binary Search Tree | [Visualizar](./Leetcode/Medium/sortedListToBST/) |
 | 114 | Flatten Binary Tree to Linked List | [Visualizar](./Leetcode/Medium/FlattenBT/) |
+| 129 | Sum Root to Leaf Numbers | [Visualizar](./Leetcode/Medium/SumRoot/)
 | 142 | Linked List Cycle II | [Visualizar](./Leetcode/Medium/LinkedCycleII/) |
 | 143 | Reorder List | [Visualizar](./Leetcode/Medium/ReorderList/) |
 | 147 | Insertion Sort List | [Visualizar](./Leetcode/Medium/InsertionSortList/) |
@@ -114,6 +115,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 503 | Next Greater Element II | [Visualizar](./Leetcode/Medium/NextGreaterElementII/) |
 | 508 | Most Frequent Subtree Sum | [Visualizar](./Leetcode/Medium/FrequentSubtreeSum/) |
 | 622 | Design Circular Queue | [Visualizar](./Leetcode/Medium/DesignCircularQueue/) |
+| 654 | Maximum Binary Tree | [Visualizar](./Leetcode/Medium/)
 | 701 | Insert into a Binary Search Tree | [Visualizar](./Leetcode/Medium/InsertBST/) |
 | 735 | Asteroid Collision | [Visualizar](./Leetcode/Medium/AsteroidCollision/)
 | 739 | Daily Temperatures | [Visualizar](./Leetcode/Medium/DailyTemperatuJres/) |
