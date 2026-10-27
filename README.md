@@ -114,6 +114,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 498 | Diagonal Traverse | [Visualizar](./Leetcode/Medium/DiagonalTraverse/) |
 | 503 | Next Greater Element II | [Visualizar](./Leetcode/Medium/NextGreaterElementII/) |
 | 508 | Most Frequent Subtree Sum | [Visualizar](./Leetcode/Medium/FrequentSubtreeSum/) |
+| 556 | Next Greater Element III | [Visualizar](./Leetcode/Medium/NextGreaterElementIII/)
 | 622 | Design Circular Queue | [Visualizar](./Leetcode/Medium/DesignCircularQueue/) |
 | 654 | Maximum Binary Tree | [Visualizar](./Leetcode/Medium/)
 | 701 | Insert into a Binary Search Tree | [Visualizar](./Leetcode/Medium/InsertBST/) |
