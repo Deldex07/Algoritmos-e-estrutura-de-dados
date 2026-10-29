@@ -101,6 +101,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 151 | Reverse Words in a String | [Visualizar](./Leetcode/Medium/ReverseWordsString/) |
 | 153 | Find Minimum in Rotated Sorted Array | [Visualizar](./Leetcode/Medium/FindMinimunInRotatedSortedArray/) |
 | 155 | Min Stack | [Visualizar](./Leetcode/Medium/MinStack/) |
+| 162 | Find Peak Element | [Visualizar](./Leetcode/Medium/FindPeak/)
 | 167 | Two Sum II - Input Array Is Sorted | [Visualizar](./Leetcode/Medium/TwoSumII/) |
 | 199 | Binary Tree Right Side View | [Visualizar](./Leetcode/Medium/BinaryTrreRightSideView/)
 | 209 | Minimum Size Subarray Sum | [Visualizar](./Leetcode/Medium/Minimum%20Size%20Subarray/) |
