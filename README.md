@@ -15,6 +15,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 27 | Remove Element | [Visualizar](./Leetcode/Easy/removeNum/) |
 | 28 | Find the Index of the First Occurrence in a String | [Visualizar](./Leetcode/Easy/FirstOccurrence/) |
 | 35 | Search Insert Position | [Visualizar](./Leetcode/Easy/SearchPosition/) |
+| 66 | Plus One | [Visualizar](./Leetcode/Easy/PlusOne/) |
 | 67 | Add Binary | [Visualizar](./Leetcode/Easy/addBinary/) |
 | 69 | Sqrt(x) | [Visualizar](./Leetcode/Easy/Sqrt(x)/) |
 | 83 | Remove Duplicates from Sorted List | [Visualizar](./Leetcode/Easy/RemoveDuplicates_SL/) |
@@ -45,6 +46,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 | 344 | Reverse String | [Visualizar](./Leetcode/Easy/ReverseString/) |
 | 485 | Max Consecutive Ones | [Visualizar](./Leetcode/Easy/MaxConsecutiveOnes/) |
 | 509 | Fibonacci Number | [Visualizar](./Leetcode/Easy/fibonnaci/) |
+| 543 | Diamter of Binary Tree | [Visualizar](./Leetcode/Easy/DiameterOfBinaryTree/) |
 | 617 | Merge Two Binary Trees | [Visualizar](./Leetcode/Easy/MergeTwoBinaryTrees/)
 | 700 | Search in a Binary Search Tree | [Visualizar](./Leetcode/Easy/SearchBST/) |
 | 860 | Lemonade Change | [Visualizar](./Leetcode/Easy/Lemonade/) |
@@ -132,6 +134,7 @@ Repositório da disciplina A&D (Terceiro semestre)
 ### 🔴 Hard
 | # | Problema | Solução |
 | :--- | :--- | :--- |
+| 124 | Binary Tree Maximum Path Sum | [Visualizar](./Leetcode/Hard/TreeMaximumPath/) |
 | 23 | Merge K Sorted Lists | [Visualizar](./Leetcode/Hard/MergekSortedLists/) |
 | 154 | Find Minimum in Rotated Sorted Array II | [Visualizar](./Leetcode/Hard/FindMinInRotatedSortedArray/) |
 | 493 | Reverse Pairs | [Visualizar](./Leetcode/Hard/ReversePairs/) |
